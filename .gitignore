@@ -144,3 +144,5 @@ dmypy.json
 
 slides/
 xl/
+
+.devcontainer/
